@@ -198,10 +198,30 @@ document.addEventListener("DOMContentLoaded", function () {
             // Add more libraries in Niger as needed
         ],
         ogun: [
-            { name: "Ogun State Library", details: "State library located in Abeokuta, Ogun State." },
-            { name: "Federal University of Agriculture Abeokuta Library", details: "Academic library serving FUNAAB students and faculty." }
-            // Add more libraries in Ogun as needed
+            { name: "Ogun State Central Library", details: "State library located in Abeokuta, Ogun State", location: "Ibrahim Babangida Boulevard, Kuto, Abeokuta" },
+            { name: "Olabisi Onabanjo University Library", details: "Academic library serving OOU students and faculty", location: "Olabisi Onabanjo Way, Ago-Iwoye" },
+            { name: "Federal College of Education Library", details: "Library supporting students and staff of FCE, Abeokuta", location: "Abeokuta-Ibadan Road, Osiele, Abeokuta" },
+            { name: "Gateway Polytechnic Library", details: "Library serving students and faculty of Gateway Polytechnic, Igbesa", location: "Ilaro Road, Igbesa" },
+            { name: "Abeokuta City Library", details: "Public library located in the heart of Abeokuta city", location: "Lisabi Road, Abeokuta" },
+            { name: "Educational Resource Center", details: "Library and resource center for educators and students", location: "Obantoko Road, Abeokuta" },
+            { name: "Green Valley Library", details: "Library promoting environmental awareness and sustainable living", location: "Ota, Ogun State" },
+            { name: "Ogun Heritage Library", details: "Library preserving the cultural heritage of Ogun State", location: "Oke-Mosan, Abeokuta" },
+            { name: "Pioneer Library", details: "Historical library with a collection of pioneer literature", location: "Ifo, Ogun State" },
+            { name: "Sunrise Library", details: "Library opening early to cater to early risers and students", location: "Alabata, Abeokuta" },
+            { name: "Golden Gate Library", details: "Library with a diverse collection of literature and resources", location: "Sango-Ota, Ogun State" },
+            { name: "Unity Library", details: "Community-driven library promoting unity and harmony among residents", location: "Ijebu-Ode, Ogun State" },
+            { name: "Royal Readers Library", details: "Library with a focus on royal history and monarch literature", location: "Ikenne Road, Ikenne" },
+            { name: "Graceland Library", details: "Library promoting grace, kindness, and positive values", location: "Asero, Abeokuta" },
+            { name: "Knowledge Haven Library", details: "Library serving as a haven for knowledge seekers and researchers", location: "Idi-Aba, Abeokuta" },
+            { name: "Innovation Hub Library", details: "Library fostering innovation and creativity among students", location: "Adatan, Abeokuta" },
+            { name: "Rural Readers Library", details: "Library promoting literacy in rural communities of Ogun State", location: "Ilaro, Ogun State" },
+            { name: "Peaceful Readers Library", details: "Library providing a peaceful and quiet environment for reading", location: "Sagamu, Ogun State" },
+            { name: "Emerald Isle Library", details: "Library with a collection of environmental literature and conservation resources", location: "Owode, Ogun State" },
+            { name: "Ogun Learning Center", details: "Education and research center for students and scholars", location: "Ago-Oba, Abeokuta" },
+            { name: "Liberty Library", details: "Library promoting freedom, democracy, and civic education", location: "Ijebu-Igbo, Ogun State" }
+            // Add more libraries in Ogun State as needed
         ],
+           
         ondo: [
             { name: "Ondo State Library", details: "State library located in Akure, Ondo State." },
             { name: "Adekunle Ajasin University Library", details: "Academic library serving AAUA students and faculty." }
